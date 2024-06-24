@@ -2,7 +2,15 @@
 
 ## Course Description
 
-In this course, I learn the fundamentals of Node.js, including core modules and NPM, and how Node.js works behind the scenes with concepts like the event loop and non-blocking code. I dive into Express for routing and middleware, and develop RESTful APIs with advanced features such as filtering, sorting, and pagination. I explore server-side rendering with Pug templates, and perform CRUD operations with MongoDB both locally and on the Atlas platform. I cover advanced MongoDB topics like geospatial queries and the aggregation pipeline, along with Mongoose for data modeling and validation. The course includes the MVC architecture, advanced data modeling in NoSQL databases, modern authentication with JWT, and user authorization. I emphasize security best practices, including encryption and sanitization, and learn to accept credit card payments with Stripe, upload files, process images, and send emails with Mailtrap and Sendgrid. Finally, I master advanced error handling, deploy applications to Heroku, and get a crash course on Git and GitHub.
+In this course, I gained a comprehensive understanding of Node.js, including its core modules, NPM, and the underlying mechanisms such as the event loop and non-blocking code. The curriculum delved into Express for routing and middleware, as well as the creation of RESTful APIs featuring advanced filtering, sorting, and pagination capabilities. I learned about server-side rendering with Pug templates and performed CRUD operations with MongoDB, both locally and on the Atlas platform. The course also covered advanced MongoDB topics, including geospatial queries, the aggregation pipeline, and using Mongoose for data modeling and validation. Key components of the course included:
+
+- The MVC architecture
+- Advanced data modeling in NoSQL databases
+- Modern authentication with JWT
+- User authorization
+
+Additionally, the course emphasized security best practices, such as encryption and sanitization. I learned how to integrate Stripe for credit card payments, manage file uploads, process images, and send emails using Mailtrap and Sendgrid. Finally, the course covered advanced error handling and deploying applications to Heroku.
+
 
 
 ## Section 2: Introduction to Node.js and NPM
