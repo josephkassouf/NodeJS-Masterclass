@@ -1,0 +1,9 @@
+# Node modules directory
+node_modules/
+
+# macOS specific metadata files
+.DS_Store
+
+# JetBrains IDEs specific metadata files
+.idea/
+
